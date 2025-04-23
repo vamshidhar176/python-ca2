@@ -7,7 +7,7 @@ Source: Government public health records
 
 Format: CSV (Comma-Separated Values)
 
-Records: 3,094 rows
+Records: 3,094 rows  
 
 Key Fields:
   
