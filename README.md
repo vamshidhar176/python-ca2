@@ -12,7 +12,7 @@ Records: 3,094 rows
 Key Fields:
      
 Period: Rolling time intervals (e.g., 2000–02) 
-
+ 
 Data Value: Injury count or rate
 
 Cause: Type of incident (e.g., Falls, Assault)
